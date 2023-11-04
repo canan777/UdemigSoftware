@@ -5,10 +5,5 @@ The homepage, about us and services sections contain information about the proje
 HTML5-CSS3
 
 
-
-
-
-# UdemigSoftware
-
 <h1>UdemigSoftware</h1>
 <img src="./img/UdemigSoftware.gif">
